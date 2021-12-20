@@ -1,0 +1,6 @@
+4
+g
+initial
+(on 2 1) (clear 2) (clear 3) (clear 4) (ontable 1) (ontable 3) (ontable 4) (empty)
+goal
+(on 3 1) (on 2 4) (clear 3) (clear 2) (ontable 1) (ontable 4) (empty)
